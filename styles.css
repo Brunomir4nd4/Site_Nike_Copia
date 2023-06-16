@@ -1,0 +1,162 @@
+.html, .body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+    
+header, nav, ul{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+nav, ul{
+    cursor: pointer;
+}
+.cabe{
+    height: 80px;
+    position: relative
+}
+.cabe2{
+    background-color: rgb(246, 246, 246);
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+.cabe3{
+    background-color: rgb(246, 246, 246);
+    height: 55px;
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 75px;
+    margin-left: 33px;
+    margin-top: 10px;
+    position: relative;
+}
+.logo2{
+    width: 55px;
+    margin-left: 20px;
+    bottom: 11px;
+    position: relative;
+    
+}
+
+.logo3{
+    margin-left: 11px;
+    position: absolute;
+    margin-top: 10px;
+    width: 43px;
+}
+.ofer{
+    width: 33px;
+    position: relative;
+    top: 10px;
+    
+}
+#pesquisa{
+    width: 15px;
+    float: left;
+    margin-top: 7px;
+}
+#txtbusca{
+    float: left;
+    background-color: transparent;
+    margin-right: 5px;
+    font-size: 18px;
+    border: none;
+    height: 20px;
+    
+    
+}
+#btnbusca{
+    float: right;
+    cursor: pointer;
+    position: relative;
+    margin-right: 50px;
+    
+}
+#divbusca{
+    background-color:  rgba(246, 246, 246, 0.8);
+    height: 30px;
+    width: 200px;
+    float: right;
+   
+}
+
+.menu li{
+    display: inline;
+    padding: 15px;
+    font-size: 11px;
+    color:  rgba(70, 70, 70, 0.7);
+    font-weight: 500;
+
+}
+.menu{
+    display: inline-flex;
+    position: absolute;
+    right: 30px;
+    height: 37px;
+}
+.menu1{
+    position: relative;
+    top: 14px;
+    left: 390px;
+    position: absolute;
+
+}
+
+.menu1, .menu2 ul{
+  list-style: none;
+  text-align: center;
+}
+.menu1 li{
+    display: inline;
+    padding: 15px;
+}
+.menu2{
+    position: relative;
+}
+.menu2 li{
+    display: inline;
+    font-size: 15px;
+}
+.menu2 ul{
+    margin: 20;
+    height: 55px;
+}
+#ofer{
+    font-size: 17px;
+}
+#seta1, #seta2, #ofer{
+    font-weight: bold;
+}
+#seta1{
+    position: relative;
+    left: 315px;
+    bottom: 55px;
+    font-size: 25px;
+    font-weight: 200;
+    cursor: pointer;
+}
+
+#seta2{
+    left: 1180px;
+    bottom: 85px;
+    font-size: 25px;
+    font-weight: 200;
+    position: relative;
+    cursor: pointer;
+}
+#img_principal{
+    width: 1350px;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+#lancamentos{
+    position: relative;
+    width: 1350px;
+    margin-left: 80px;
+}
+
